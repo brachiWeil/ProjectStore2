@@ -1,0 +1,182 @@
+Y:\Groups\Group_2\קסטנר  בתיה\Dotnet\ApiProject\Store.Dal\bin\Debug\net6.0\Store.Dal.deps.json
+Y:\Groups\Group_2\קסטנר  בתיה\Dotnet\ApiProject\Store.Dal\bin\Debug\net6.0\Store.Dal.dll
+Y:\Groups\Group_2\קסטנר  בתיה\Dotnet\ApiProject\Store.Dal\bin\Debug\net6.0\Store.Dal.pdb
+Y:\Groups\Group_2\קסטנר  בתיה\Dotnet\ApiProject\Store.Dal\obj\Debug\net6.0\Store.Dal.csproj.AssemblyReference.cache
+Y:\Groups\Group_2\קסטנר  בתיה\Dotnet\ApiProject\Store.Dal\obj\Debug\net6.0\Store.Dal.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_2\קסטנר  בתיה\Dotnet\ApiProject\Store.Dal\obj\Debug\net6.0\Store.Dal.AssemblyInfoInputs.cache
+Y:\Groups\Group_2\קסטנר  בתיה\Dotnet\ApiProject\Store.Dal\obj\Debug\net6.0\Store.Dal.AssemblyInfo.cs
+Y:\Groups\Group_2\קסטנר  בתיה\Dotnet\ApiProject\Store.Dal\obj\Debug\net6.0\Store.Dal.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_2\קסטנר  בתיה\Dotnet\ApiProject\Store.Dal\obj\Debug\net6.0\Store.Dal.dll
+Y:\Groups\Group_2\קסטנר  בתיה\Dotnet\ApiProject\Store.Dal\obj\Debug\net6.0\refint\Store.Dal.dll
+Y:\Groups\Group_2\קסטנר  בתיה\Dotnet\ApiProject\Store.Dal\obj\Debug\net6.0\Store.Dal.pdb
+Y:\Groups\Group_2\קסטנר  בתיה\Dotnet\ApiProject\Store.Dal\obj\Debug\net6.0\ref\Store.Dal.dll
+Y:\Groups\Group_2\וייל  ברכה\דוטנט\ApiProject\Store.Dal\bin\Debug\net6.0\Store.Dal.deps.json
+Y:\Groups\Group_2\וייל  ברכה\דוטנט\ApiProject\Store.Dal\bin\Debug\net6.0\Store.Dal.runtimeconfig.json
+Y:\Groups\Group_2\וייל  ברכה\דוטנט\ApiProject\Store.Dal\bin\Debug\net6.0\Store.Dal.dll
+Y:\Groups\Group_2\וייל  ברכה\דוטנט\ApiProject\Store.Dal\bin\Debug\net6.0\Store.Dal.pdb
+Y:\Groups\Group_2\וייל  ברכה\דוטנט\ApiProject\Store.Dal\bin\Debug\net6.0\Store.model.dll
+Y:\Groups\Group_2\וייל  ברכה\דוטנט\ApiProject\Store.Dal\bin\Debug\net6.0\Store.model.pdb
+Y:\Groups\Group_2\וייל  ברכה\דוטנט\ApiProject\Store.Dal\obj\Debug\net6.0\Store.Dal.csproj.AssemblyReference.cache
+Y:\Groups\Group_2\וייל  ברכה\דוטנט\ApiProject\Store.Dal\obj\Debug\net6.0\Store.Dal.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_2\וייל  ברכה\דוטנט\ApiProject\Store.Dal\obj\Debug\net6.0\Store.Dal.AssemblyInfoInputs.cache
+Y:\Groups\Group_2\וייל  ברכה\דוטנט\ApiProject\Store.Dal\obj\Debug\net6.0\Store.Dal.AssemblyInfo.cs
+Y:\Groups\Group_2\וייל  ברכה\דוטנט\ApiProject\Store.Dal\obj\Debug\net6.0\Store.Dal.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_2\וייל  ברכה\דוטנט\ApiProject\Store.Dal\obj\Debug\net6.0\Store.Dal.csproj.CopyComplete
+Y:\Groups\Group_2\וייל  ברכה\דוטנט\ApiProject\Store.Dal\obj\Debug\net6.0\Store.Dal.dll
+Y:\Groups\Group_2\וייל  ברכה\דוטנט\ApiProject\Store.Dal\obj\Debug\net6.0\refint\Store.Dal.dll
+Y:\Groups\Group_2\וייל  ברכה\דוטנט\ApiProject\Store.Dal\obj\Debug\net6.0\Store.Dal.pdb
+Y:\Groups\Group_2\וייל  ברכה\דוטנט\ApiProject\Store.Dal\obj\Debug\net6.0\Store.Dal.genruntimeconfig.cache
+Y:\Groups\Group_2\וייל  ברכה\דוטנט\ApiProject\Store.Dal\obj\Debug\net6.0\ref\Store.Dal.dll
+Y:\Groups\Group_2\וייל  ברכה\ApiProject\Store.Dal\bin\Debug\net6.0\Store.Dal.deps.json
+Y:\Groups\Group_2\וייל  ברכה\ApiProject\Store.Dal\bin\Debug\net6.0\Store.Dal.runtimeconfig.json
+Y:\Groups\Group_2\וייל  ברכה\ApiProject\Store.Dal\bin\Debug\net6.0\Store.Dal.dll
+Y:\Groups\Group_2\וייל  ברכה\ApiProject\Store.Dal\bin\Debug\net6.0\Store.Dal.pdb
+Y:\Groups\Group_2\וייל  ברכה\ApiProject\Store.Dal\bin\Debug\net6.0\Store.model.dll
+Y:\Groups\Group_2\וייל  ברכה\ApiProject\Store.Dal\bin\Debug\net6.0\Store.model.pdb
+Y:\Groups\Group_2\וייל  ברכה\ApiProject\Store.Dal\obj\Debug\net6.0\Store.Dal.csproj.AssemblyReference.cache
+Y:\Groups\Group_2\וייל  ברכה\ApiProject\Store.Dal\obj\Debug\net6.0\Store.Dal.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_2\וייל  ברכה\ApiProject\Store.Dal\obj\Debug\net6.0\Store.Dal.AssemblyInfoInputs.cache
+Y:\Groups\Group_2\וייל  ברכה\ApiProject\Store.Dal\obj\Debug\net6.0\Store.Dal.AssemblyInfo.cs
+Y:\Groups\Group_2\וייל  ברכה\ApiProject\Store.Dal\obj\Debug\net6.0\Store.Dal.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_2\וייל  ברכה\ApiProject\Store.Dal\obj\Debug\net6.0\Store.Dal.csproj.CopyComplete
+Y:\Groups\Group_2\וייל  ברכה\ApiProject\Store.Dal\obj\Debug\net6.0\Store.Dal.dll
+Y:\Groups\Group_2\וייל  ברכה\ApiProject\Store.Dal\obj\Debug\net6.0\refint\Store.Dal.dll
+Y:\Groups\Group_2\וייל  ברכה\ApiProject\Store.Dal\obj\Debug\net6.0\Store.Dal.pdb
+Y:\Groups\Group_2\וייל  ברכה\ApiProject\Store.Dal\obj\Debug\net6.0\Store.Dal.genruntimeconfig.cache
+Y:\Groups\Group_2\וייל  ברכה\ApiProject\Store.Dal\obj\Debug\net6.0\ref\Store.Dal.dll
+Y:\Groups\Group_2\וייל  ברכה\‏‏תיקיה חדשה\ApiProject\Store.Dal\bin\Debug\net6.0\Store.Dal.deps.json
+Y:\Groups\Group_2\וייל  ברכה\‏‏תיקיה חדשה\ApiProject\Store.Dal\bin\Debug\net6.0\Store.Dal.runtimeconfig.json
+Y:\Groups\Group_2\וייל  ברכה\‏‏תיקיה חדשה\ApiProject\Store.Dal\bin\Debug\net6.0\Store.Dal.dll
+Y:\Groups\Group_2\וייל  ברכה\‏‏תיקיה חדשה\ApiProject\Store.Dal\bin\Debug\net6.0\Store.Dal.pdb
+Y:\Groups\Group_2\וייל  ברכה\‏‏תיקיה חדשה\ApiProject\Store.Dal\bin\Debug\net6.0\Store.model.dll
+Y:\Groups\Group_2\וייל  ברכה\‏‏תיקיה חדשה\ApiProject\Store.Dal\bin\Debug\net6.0\Store.model.pdb
+Y:\Groups\Group_2\וייל  ברכה\‏‏תיקיה חדשה\ApiProject\Store.Dal\obj\Debug\net6.0\Store.Dal.csproj.AssemblyReference.cache
+Y:\Groups\Group_2\וייל  ברכה\‏‏תיקיה חדשה\ApiProject\Store.Dal\obj\Debug\net6.0\Store.Dal.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_2\וייל  ברכה\‏‏תיקיה חדשה\ApiProject\Store.Dal\obj\Debug\net6.0\Store.Dal.AssemblyInfoInputs.cache
+Y:\Groups\Group_2\וייל  ברכה\‏‏תיקיה חדשה\ApiProject\Store.Dal\obj\Debug\net6.0\Store.Dal.AssemblyInfo.cs
+Y:\Groups\Group_2\וייל  ברכה\‏‏תיקיה חדשה\ApiProject\Store.Dal\obj\Debug\net6.0\Store.Dal.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_2\וייל  ברכה\‏‏תיקיה חדשה\ApiProject\Store.Dal\obj\Debug\net6.0\Store.Dal.csproj.CopyComplete
+Y:\Groups\Group_2\וייל  ברכה\‏‏תיקיה חדשה\ApiProject\Store.Dal\obj\Debug\net6.0\Store.Dal.dll
+Y:\Groups\Group_2\וייל  ברכה\‏‏תיקיה חדשה\ApiProject\Store.Dal\obj\Debug\net6.0\refint\Store.Dal.dll
+Y:\Groups\Group_2\וייל  ברכה\‏‏תיקיה חדשה\ApiProject\Store.Dal\obj\Debug\net6.0\Store.Dal.pdb
+Y:\Groups\Group_2\וייל  ברכה\‏‏תיקיה חדשה\ApiProject\Store.Dal\obj\Debug\net6.0\Store.Dal.genruntimeconfig.cache
+Y:\Groups\Group_2\וייל  ברכה\‏‏תיקיה חדשה\ApiProject\Store.Dal\obj\Debug\net6.0\ref\Store.Dal.dll
+Y:\Groups\Group_2\וייל  ברכה\פרויקט דוטנט ברכי ובתיה\ApiProject\Store.Dal\bin\Debug\net6.0\Store.Dal.deps.json
+Y:\Groups\Group_2\וייל  ברכה\פרויקט דוטנט ברכי ובתיה\ApiProject\Store.Dal\bin\Debug\net6.0\Store.Dal.runtimeconfig.json
+Y:\Groups\Group_2\וייל  ברכה\פרויקט דוטנט ברכי ובתיה\ApiProject\Store.Dal\bin\Debug\net6.0\Store.Dal.dll
+Y:\Groups\Group_2\וייל  ברכה\פרויקט דוטנט ברכי ובתיה\ApiProject\Store.Dal\bin\Debug\net6.0\Store.Dal.pdb
+Y:\Groups\Group_2\וייל  ברכה\פרויקט דוטנט ברכי ובתיה\ApiProject\Store.Dal\bin\Debug\net6.0\Store.model.dll
+Y:\Groups\Group_2\וייל  ברכה\פרויקט דוטנט ברכי ובתיה\ApiProject\Store.Dal\bin\Debug\net6.0\Store.model.pdb
+Y:\Groups\Group_2\וייל  ברכה\פרויקט דוטנט ברכי ובתיה\ApiProject\Store.Dal\obj\Debug\net6.0\Store.Dal.csproj.AssemblyReference.cache
+Y:\Groups\Group_2\וייל  ברכה\פרויקט דוטנט ברכי ובתיה\ApiProject\Store.Dal\obj\Debug\net6.0\Store.Dal.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_2\וייל  ברכה\פרויקט דוטנט ברכי ובתיה\ApiProject\Store.Dal\obj\Debug\net6.0\Store.Dal.AssemblyInfoInputs.cache
+Y:\Groups\Group_2\וייל  ברכה\פרויקט דוטנט ברכי ובתיה\ApiProject\Store.Dal\obj\Debug\net6.0\Store.Dal.AssemblyInfo.cs
+Y:\Groups\Group_2\וייל  ברכה\פרויקט דוטנט ברכי ובתיה\ApiProject\Store.Dal\obj\Debug\net6.0\Store.Dal.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_2\וייל  ברכה\פרויקט דוטנט ברכי ובתיה\ApiProject\Store.Dal\obj\Debug\net6.0\Store.Dal.csproj.CopyComplete
+Y:\Groups\Group_2\וייל  ברכה\פרויקט דוטנט ברכי ובתיה\ApiProject\Store.Dal\obj\Debug\net6.0\Store.Dal.dll
+Y:\Groups\Group_2\וייל  ברכה\פרויקט דוטנט ברכי ובתיה\ApiProject\Store.Dal\obj\Debug\net6.0\refint\Store.Dal.dll
+Y:\Groups\Group_2\וייל  ברכה\פרויקט דוטנט ברכי ובתיה\ApiProject\Store.Dal\obj\Debug\net6.0\Store.Dal.pdb
+Y:\Groups\Group_2\וייל  ברכה\פרויקט דוטנט ברכי ובתיה\ApiProject\Store.Dal\obj\Debug\net6.0\Store.Dal.genruntimeconfig.cache
+Y:\Groups\Group_2\וייל  ברכה\פרויקט דוטנט ברכי ובתיה\ApiProject\Store.Dal\obj\Debug\net6.0\ref\Store.Dal.dll
+Y:\Groups\Group_2\וייל  ברכה\נסיוניננננ\ApiProject\Store.Dal\bin\Debug\net6.0\Store.Dal.deps.json
+Y:\Groups\Group_2\וייל  ברכה\נסיוניננננ\ApiProject\Store.Dal\bin\Debug\net6.0\Store.Dal.runtimeconfig.json
+Y:\Groups\Group_2\וייל  ברכה\נסיוניננננ\ApiProject\Store.Dal\bin\Debug\net6.0\Store.Dal.dll
+Y:\Groups\Group_2\וייל  ברכה\נסיוניננננ\ApiProject\Store.Dal\bin\Debug\net6.0\Store.Dal.pdb
+Y:\Groups\Group_2\וייל  ברכה\נסיוניננננ\ApiProject\Store.Dal\bin\Debug\net6.0\Store.model.dll
+Y:\Groups\Group_2\וייל  ברכה\נסיוניננננ\ApiProject\Store.Dal\bin\Debug\net6.0\Store.model.pdb
+Y:\Groups\Group_2\וייל  ברכה\נסיוניננננ\ApiProject\Store.Dal\obj\Debug\net6.0\Store.Dal.csproj.AssemblyReference.cache
+Y:\Groups\Group_2\וייל  ברכה\נסיוניננננ\ApiProject\Store.Dal\obj\Debug\net6.0\Store.Dal.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_2\וייל  ברכה\נסיוניננננ\ApiProject\Store.Dal\obj\Debug\net6.0\Store.Dal.AssemblyInfoInputs.cache
+Y:\Groups\Group_2\וייל  ברכה\נסיוניננננ\ApiProject\Store.Dal\obj\Debug\net6.0\Store.Dal.AssemblyInfo.cs
+Y:\Groups\Group_2\וייל  ברכה\נסיוניננננ\ApiProject\Store.Dal\obj\Debug\net6.0\Store.Dal.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_2\וייל  ברכה\נסיוניננננ\ApiProject\Store.Dal\obj\Debug\net6.0\Store.Dal.csproj.CopyComplete
+Y:\Groups\Group_2\וייל  ברכה\נסיוניננננ\ApiProject\Store.Dal\obj\Debug\net6.0\Store.Dal.dll
+Y:\Groups\Group_2\וייל  ברכה\נסיוניננננ\ApiProject\Store.Dal\obj\Debug\net6.0\refint\Store.Dal.dll
+Y:\Groups\Group_2\וייל  ברכה\נסיוניננננ\ApiProject\Store.Dal\obj\Debug\net6.0\Store.Dal.pdb
+Y:\Groups\Group_2\וייל  ברכה\נסיוניננננ\ApiProject\Store.Dal\obj\Debug\net6.0\Store.Dal.genruntimeconfig.cache
+Y:\Groups\Group_2\וייל  ברכה\נסיוניננננ\ApiProject\Store.Dal\obj\Debug\net6.0\ref\Store.Dal.dll
+Y:\Groups\Group_2\וייל  ברכה\דוטנט פרויקט\נסיוניננננ\ApiProject\Store.Dal\bin\Debug\net6.0\Store.Dal.deps.json
+Y:\Groups\Group_2\וייל  ברכה\דוטנט פרויקט\נסיוניננננ\ApiProject\Store.Dal\bin\Debug\net6.0\Store.Dal.runtimeconfig.json
+Y:\Groups\Group_2\וייל  ברכה\דוטנט פרויקט\נסיוניננננ\ApiProject\Store.Dal\bin\Debug\net6.0\Store.Dal.dll
+Y:\Groups\Group_2\וייל  ברכה\דוטנט פרויקט\נסיוניננננ\ApiProject\Store.Dal\bin\Debug\net6.0\Store.Dal.pdb
+Y:\Groups\Group_2\וייל  ברכה\דוטנט פרויקט\נסיוניננננ\ApiProject\Store.Dal\bin\Debug\net6.0\Store.model.dll
+Y:\Groups\Group_2\וייל  ברכה\דוטנט פרויקט\נסיוניננננ\ApiProject\Store.Dal\bin\Debug\net6.0\Store.model.pdb
+Y:\Groups\Group_2\וייל  ברכה\דוטנט פרויקט\נסיוניננננ\ApiProject\Store.Dal\obj\Debug\net6.0\Store.Dal.csproj.AssemblyReference.cache
+Y:\Groups\Group_2\וייל  ברכה\דוטנט פרויקט\נסיוניננננ\ApiProject\Store.Dal\obj\Debug\net6.0\Store.Dal.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_2\וייל  ברכה\דוטנט פרויקט\נסיוניננננ\ApiProject\Store.Dal\obj\Debug\net6.0\Store.Dal.AssemblyInfoInputs.cache
+Y:\Groups\Group_2\וייל  ברכה\דוטנט פרויקט\נסיוניננננ\ApiProject\Store.Dal\obj\Debug\net6.0\Store.Dal.AssemblyInfo.cs
+Y:\Groups\Group_2\וייל  ברכה\דוטנט פרויקט\נסיוניננננ\ApiProject\Store.Dal\obj\Debug\net6.0\Store.Dal.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_2\וייל  ברכה\דוטנט פרויקט\נסיוניננננ\ApiProject\Store.Dal\obj\Debug\net6.0\Store.Dal.csproj.CopyComplete
+Y:\Groups\Group_2\וייל  ברכה\דוטנט פרויקט\נסיוניננננ\ApiProject\Store.Dal\obj\Debug\net6.0\Store.Dal.dll
+Y:\Groups\Group_2\וייל  ברכה\דוטנט פרויקט\נסיוניננננ\ApiProject\Store.Dal\obj\Debug\net6.0\refint\Store.Dal.dll
+Y:\Groups\Group_2\וייל  ברכה\דוטנט פרויקט\נסיוניננננ\ApiProject\Store.Dal\obj\Debug\net6.0\Store.Dal.pdb
+Y:\Groups\Group_2\וייל  ברכה\דוטנט פרויקט\נסיוניננננ\ApiProject\Store.Dal\obj\Debug\net6.0\Store.Dal.genruntimeconfig.cache
+Y:\Groups\Group_2\וייל  ברכה\דוטנט פרויקט\נסיוניננננ\ApiProject\Store.Dal\obj\Debug\net6.0\ref\Store.Dal.dll
+Y:\Groups\Group_2\וייל  ברכה\דוטנט פרויקט\ניסיו\פרויקט דוטנט ברכי ובתיה\ApiProject\Store.Dal\bin\Debug\net6.0\Store.Dal.deps.json
+Y:\Groups\Group_2\וייל  ברכה\דוטנט פרויקט\ניסיו\פרויקט דוטנט ברכי ובתיה\ApiProject\Store.Dal\bin\Debug\net6.0\Store.Dal.runtimeconfig.json
+Y:\Groups\Group_2\וייל  ברכה\דוטנט פרויקט\ניסיו\פרויקט דוטנט ברכי ובתיה\ApiProject\Store.Dal\bin\Debug\net6.0\Store.Dal.dll
+Y:\Groups\Group_2\וייל  ברכה\דוטנט פרויקט\ניסיו\פרויקט דוטנט ברכי ובתיה\ApiProject\Store.Dal\bin\Debug\net6.0\Store.Dal.pdb
+Y:\Groups\Group_2\וייל  ברכה\דוטנט פרויקט\ניסיו\פרויקט דוטנט ברכי ובתיה\ApiProject\Store.Dal\bin\Debug\net6.0\Store.model.dll
+Y:\Groups\Group_2\וייל  ברכה\דוטנט פרויקט\ניסיו\פרויקט דוטנט ברכי ובתיה\ApiProject\Store.Dal\bin\Debug\net6.0\Store.model.pdb
+Y:\Groups\Group_2\וייל  ברכה\דוטנט פרויקט\ניסיו\פרויקט דוטנט ברכי ובתיה\ApiProject\Store.Dal\obj\Debug\net6.0\Store.Dal.csproj.AssemblyReference.cache
+Y:\Groups\Group_2\וייל  ברכה\דוטנט פרויקט\ניסיו\פרויקט דוטנט ברכי ובתיה\ApiProject\Store.Dal\obj\Debug\net6.0\Store.Dal.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_2\וייל  ברכה\דוטנט פרויקט\ניסיו\פרויקט דוטנט ברכי ובתיה\ApiProject\Store.Dal\obj\Debug\net6.0\Store.Dal.AssemblyInfoInputs.cache
+Y:\Groups\Group_2\וייל  ברכה\דוטנט פרויקט\ניסיו\פרויקט דוטנט ברכי ובתיה\ApiProject\Store.Dal\obj\Debug\net6.0\Store.Dal.AssemblyInfo.cs
+Y:\Groups\Group_2\וייל  ברכה\דוטנט פרויקט\ניסיו\פרויקט דוטנט ברכי ובתיה\ApiProject\Store.Dal\obj\Debug\net6.0\Store.Dal.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_2\וייל  ברכה\דוטנט פרויקט\ניסיו\פרויקט דוטנט ברכי ובתיה\ApiProject\Store.Dal\obj\Debug\net6.0\Store.Dal.csproj.CopyComplete
+Y:\Groups\Group_2\וייל  ברכה\דוטנט פרויקט\ניסיו\פרויקט דוטנט ברכי ובתיה\ApiProject\Store.Dal\obj\Debug\net6.0\Store.Dal.dll
+Y:\Groups\Group_2\וייל  ברכה\דוטנט פרויקט\ניסיו\פרויקט דוטנט ברכי ובתיה\ApiProject\Store.Dal\obj\Debug\net6.0\refint\Store.Dal.dll
+Y:\Groups\Group_2\וייל  ברכה\דוטנט פרויקט\ניסיו\פרויקט דוטנט ברכי ובתיה\ApiProject\Store.Dal\obj\Debug\net6.0\Store.Dal.pdb
+Y:\Groups\Group_2\וייל  ברכה\דוטנט פרויקט\ניסיו\פרויקט דוטנט ברכי ובתיה\ApiProject\Store.Dal\obj\Debug\net6.0\Store.Dal.genruntimeconfig.cache
+Y:\Groups\Group_2\וייל  ברכה\דוטנט פרויקט\ניסיו\פרויקט דוטנט ברכי ובתיה\ApiProject\Store.Dal\obj\Debug\net6.0\ref\Store.Dal.dll
+Y:\Groups\Group_2\וייל  ברכה\דוטנט פרויקט\נסיוני 2\ניסיו\פרויקט דוטנט ברכי ובתיה\ApiProject\Store.Dal\bin\Debug\net6.0\Store.Dal.deps.json
+Y:\Groups\Group_2\וייל  ברכה\דוטנט פרויקט\נסיוני 2\ניסיו\פרויקט דוטנט ברכי ובתיה\ApiProject\Store.Dal\bin\Debug\net6.0\Store.Dal.runtimeconfig.json
+Y:\Groups\Group_2\וייל  ברכה\דוטנט פרויקט\נסיוני 2\ניסיו\פרויקט דוטנט ברכי ובתיה\ApiProject\Store.Dal\bin\Debug\net6.0\Store.Dal.dll
+Y:\Groups\Group_2\וייל  ברכה\דוטנט פרויקט\נסיוני 2\ניסיו\פרויקט דוטנט ברכי ובתיה\ApiProject\Store.Dal\bin\Debug\net6.0\Store.Dal.pdb
+Y:\Groups\Group_2\וייל  ברכה\דוטנט פרויקט\נסיוני 2\ניסיו\פרויקט דוטנט ברכי ובתיה\ApiProject\Store.Dal\bin\Debug\net6.0\Store.model.dll
+Y:\Groups\Group_2\וייל  ברכה\דוטנט פרויקט\נסיוני 2\ניסיו\פרויקט דוטנט ברכי ובתיה\ApiProject\Store.Dal\bin\Debug\net6.0\Store.model.pdb
+Y:\Groups\Group_2\וייל  ברכה\דוטנט פרויקט\נסיוני 2\ניסיו\פרויקט דוטנט ברכי ובתיה\ApiProject\Store.Dal\obj\Debug\net6.0\Store.Dal.csproj.AssemblyReference.cache
+Y:\Groups\Group_2\וייל  ברכה\דוטנט פרויקט\נסיוני 2\ניסיו\פרויקט דוטנט ברכי ובתיה\ApiProject\Store.Dal\obj\Debug\net6.0\Store.Dal.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_2\וייל  ברכה\דוטנט פרויקט\נסיוני 2\ניסיו\פרויקט דוטנט ברכי ובתיה\ApiProject\Store.Dal\obj\Debug\net6.0\Store.Dal.AssemblyInfoInputs.cache
+Y:\Groups\Group_2\וייל  ברכה\דוטנט פרויקט\נסיוני 2\ניסיו\פרויקט דוטנט ברכי ובתיה\ApiProject\Store.Dal\obj\Debug\net6.0\Store.Dal.AssemblyInfo.cs
+Y:\Groups\Group_2\וייל  ברכה\דוטנט פרויקט\נסיוני 2\ניסיו\פרויקט דוטנט ברכי ובתיה\ApiProject\Store.Dal\obj\Debug\net6.0\Store.Dal.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_2\וייל  ברכה\דוטנט פרויקט\נסיוני 2\ניסיו\פרויקט דוטנט ברכי ובתיה\ApiProject\Store.Dal\obj\Debug\net6.0\Store.Dal.csproj.CopyComplete
+Y:\Groups\Group_2\וייל  ברכה\דוטנט פרויקט\נסיוני 2\ניסיו\פרויקט דוטנט ברכי ובתיה\ApiProject\Store.Dal\obj\Debug\net6.0\Store.Dal.dll
+Y:\Groups\Group_2\וייל  ברכה\דוטנט פרויקט\נסיוני 2\ניסיו\פרויקט דוטנט ברכי ובתיה\ApiProject\Store.Dal\obj\Debug\net6.0\refint\Store.Dal.dll
+Y:\Groups\Group_2\וייל  ברכה\דוטנט פרויקט\נסיוני 2\ניסיו\פרויקט דוטנט ברכי ובתיה\ApiProject\Store.Dal\obj\Debug\net6.0\Store.Dal.pdb
+Y:\Groups\Group_2\וייל  ברכה\דוטנט פרויקט\נסיוני 2\ניסיו\פרויקט דוטנט ברכי ובתיה\ApiProject\Store.Dal\obj\Debug\net6.0\Store.Dal.genruntimeconfig.cache
+Y:\Groups\Group_2\וייל  ברכה\דוטנט פרויקט\נסיוני 2\ניסיו\פרויקט דוטנט ברכי ובתיה\ApiProject\Store.Dal\obj\Debug\net6.0\ref\Store.Dal.dll
+Y:\Groups\Group_2\קסטנר  בתיה\ניסיו\פרויקט דוטנט ברכי ובתיה\ApiProject\Store.Dal\bin\Debug\net6.0\Store.Dal.deps.json
+Y:\Groups\Group_2\קסטנר  בתיה\ניסיו\פרויקט דוטנט ברכי ובתיה\ApiProject\Store.Dal\bin\Debug\net6.0\Store.Dal.runtimeconfig.json
+Y:\Groups\Group_2\קסטנר  בתיה\ניסיו\פרויקט דוטנט ברכי ובתיה\ApiProject\Store.Dal\bin\Debug\net6.0\Store.Dal.dll
+Y:\Groups\Group_2\קסטנר  בתיה\ניסיו\פרויקט דוטנט ברכי ובתיה\ApiProject\Store.Dal\bin\Debug\net6.0\Store.Dal.pdb
+Y:\Groups\Group_2\קסטנר  בתיה\ניסיו\פרויקט דוטנט ברכי ובתיה\ApiProject\Store.Dal\bin\Debug\net6.0\Store.model.dll
+Y:\Groups\Group_2\קסטנר  בתיה\ניסיו\פרויקט דוטנט ברכי ובתיה\ApiProject\Store.Dal\bin\Debug\net6.0\Store.model.pdb
+Y:\Groups\Group_2\קסטנר  בתיה\ניסיו\פרויקט דוטנט ברכי ובתיה\ApiProject\Store.Dal\obj\Debug\net6.0\Store.Dal.csproj.AssemblyReference.cache
+Y:\Groups\Group_2\קסטנר  בתיה\ניסיו\פרויקט דוטנט ברכי ובתיה\ApiProject\Store.Dal\obj\Debug\net6.0\Store.Dal.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_2\קסטנר  בתיה\ניסיו\פרויקט דוטנט ברכי ובתיה\ApiProject\Store.Dal\obj\Debug\net6.0\Store.Dal.AssemblyInfoInputs.cache
+Y:\Groups\Group_2\קסטנר  בתיה\ניסיו\פרויקט דוטנט ברכי ובתיה\ApiProject\Store.Dal\obj\Debug\net6.0\Store.Dal.AssemblyInfo.cs
+Y:\Groups\Group_2\קסטנר  בתיה\ניסיו\פרויקט דוטנט ברכי ובתיה\ApiProject\Store.Dal\obj\Debug\net6.0\Store.Dal.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_2\קסטנר  בתיה\ניסיו\פרויקט דוטנט ברכי ובתיה\ApiProject\Store.Dal\obj\Debug\net6.0\Store.Dal.csproj.CopyComplete
+Y:\Groups\Group_2\קסטנר  בתיה\ניסיו\פרויקט דוטנט ברכי ובתיה\ApiProject\Store.Dal\obj\Debug\net6.0\Store.Dal.dll
+Y:\Groups\Group_2\קסטנר  בתיה\ניסיו\פרויקט דוטנט ברכי ובתיה\ApiProject\Store.Dal\obj\Debug\net6.0\refint\Store.Dal.dll
+Y:\Groups\Group_2\קסטנר  בתיה\ניסיו\פרויקט דוטנט ברכי ובתיה\ApiProject\Store.Dal\obj\Debug\net6.0\Store.Dal.pdb
+Y:\Groups\Group_2\קסטנר  בתיה\ניסיו\פרויקט דוטנט ברכי ובתיה\ApiProject\Store.Dal\obj\Debug\net6.0\Store.Dal.genruntimeconfig.cache
+Y:\Groups\Group_2\קסטנר  בתיה\ניסיו\פרויקט דוטנט ברכי ובתיה\ApiProject\Store.Dal\obj\Debug\net6.0\ref\Store.Dal.dll
+Y:\Groups\Group_2\וייל  ברכה\דוטנט פרויקט\ApiProject\Store.Dal\bin\Debug\net6.0\Store.Dal.deps.json
+Y:\Groups\Group_2\וייל  ברכה\דוטנט פרויקט\ApiProject\Store.Dal\bin\Debug\net6.0\Store.Dal.runtimeconfig.json
+Y:\Groups\Group_2\וייל  ברכה\דוטנט פרויקט\ApiProject\Store.Dal\bin\Debug\net6.0\Store.Dal.dll
+Y:\Groups\Group_2\וייל  ברכה\דוטנט פרויקט\ApiProject\Store.Dal\bin\Debug\net6.0\Store.Dal.pdb
+Y:\Groups\Group_2\וייל  ברכה\דוטנט פרויקט\ApiProject\Store.Dal\bin\Debug\net6.0\Store.model.dll
+Y:\Groups\Group_2\וייל  ברכה\דוטנט פרויקט\ApiProject\Store.Dal\bin\Debug\net6.0\Store.model.pdb
+Y:\Groups\Group_2\וייל  ברכה\דוטנט פרויקט\ApiProject\Store.Dal\obj\Debug\net6.0\Store.Dal.csproj.AssemblyReference.cache
+Y:\Groups\Group_2\וייל  ברכה\דוטנט פרויקט\ApiProject\Store.Dal\obj\Debug\net6.0\Store.Dal.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_2\וייל  ברכה\דוטנט פרויקט\ApiProject\Store.Dal\obj\Debug\net6.0\Store.Dal.AssemblyInfoInputs.cache
+Y:\Groups\Group_2\וייל  ברכה\דוטנט פרויקט\ApiProject\Store.Dal\obj\Debug\net6.0\Store.Dal.AssemblyInfo.cs
+Y:\Groups\Group_2\וייל  ברכה\דוטנט פרויקט\ApiProject\Store.Dal\obj\Debug\net6.0\Store.Dal.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_2\וייל  ברכה\דוטנט פרויקט\ApiProject\Store.Dal\obj\Debug\net6.0\Store.Dal.csproj.CopyComplete
+Y:\Groups\Group_2\וייל  ברכה\דוטנט פרויקט\ApiProject\Store.Dal\obj\Debug\net6.0\Store.Dal.dll
+Y:\Groups\Group_2\וייל  ברכה\דוטנט פרויקט\ApiProject\Store.Dal\obj\Debug\net6.0\refint\Store.Dal.dll
+Y:\Groups\Group_2\וייל  ברכה\דוטנט פרויקט\ApiProject\Store.Dal\obj\Debug\net6.0\Store.Dal.pdb
+Y:\Groups\Group_2\וייל  ברכה\דוטנט פרויקט\ApiProject\Store.Dal\obj\Debug\net6.0\Store.Dal.genruntimeconfig.cache
+Y:\Groups\Group_2\וייל  ברכה\דוטנט פרויקט\ApiProject\Store.Dal\obj\Debug\net6.0\ref\Store.Dal.dll
